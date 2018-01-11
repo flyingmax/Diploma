@@ -1,0 +1,64 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+    position: static;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+    width: auto;
+}
+
+.scrollable {
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.row-sm-4 {
+     /*height: 300px;*/
+     height: 300px;
+}
+
+.row-sm-5 {
+    /*height: 300px;*/
+    height: 500px;
+}
+
+.row-flex {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.inner-html {
+    position: absolute;
+}
+
+.red-tick {
+    background: url(../images/red-tick.png) no-repeat left 8px;
+}
+
+.green-tick {
+    background: url(../images/green-tick.png) no-repeat left 8px;
+}
+
+.custom-list {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.custom-list li {
+    font-size: 14px;
+    list-style: none;
+    padding: 10px 0 10px 40px;
+}
+.custom-inline{
+    margin-buttom: 15px;
+}
